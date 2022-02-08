@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 
 [linkedin]: https://linkedin.com/in/rgdafonso
-[mail]: mailto:rgd.afonso@gmail.com
+[email]: mailto:rgd.afonso@gmail.com
