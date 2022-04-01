@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.laobi.icu/badge?page_id=rgdafonso.rgdafonso) [![Github](https://img.shields.io/github/followers/rgdafonso?label=Followers&logo=Github)](https://github.com/rgdafonso)
+![](https://visitor-badge.laobi.icu/badge?page_id=rgdafonso.rgdafonso) 
 
 I'm Roger Afonso, a software developer from Brazil. 😄 
 
