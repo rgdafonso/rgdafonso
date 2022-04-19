@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br />
 
 
-
+<!--
 ## My Github Stats:
 
 <div>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-
+-->
 
 [linkedin]: https://linkedin.com/in/rgdafonso
 [email]: mailto:rgd.afonso@gmail.com
